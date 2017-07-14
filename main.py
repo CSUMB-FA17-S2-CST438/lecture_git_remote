@@ -8,6 +8,7 @@ def main():
 	message.greeting()
     
 	# Add your code here!!
+	print "Alice Otter did a contribution."
 	
 	print "Bye!"
     
